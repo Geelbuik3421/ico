@@ -1015,4 +1015,4 @@ export const TOKEN_CONTRACT_ABI = [
     "type": "receive"
   }
 ];
-export const TOKEN_CONTRACT_ADDRESS = "Crypto Devs Token Contract Address: 0xFF27F4c98d320eE8c7a3572931De4B63a8411F7A";
+export const TOKEN_CONTRACT_ADDRESS = "0xFF27F4c98d320eE8c7a3572931De4B63a8411F7A";
